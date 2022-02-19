@@ -30,7 +30,7 @@ public class Excelread {
 	    	{
 
 				String value=sheet.getRow(i).getCell(j).getStringCellValue();
-				System.out.print(value+  "    ");
+				System.out.print(value+  "sushil    ");
 			}
 			System.out.println();
    			System.out.println( value+  "  ");
