@@ -33,7 +33,7 @@ public class Excelread {
 				System.out.print(value+  "    ");
 			}
 			System.out.println();
-
+   			System.out.println( value+  "  ");
 		}
 	    }
 		
